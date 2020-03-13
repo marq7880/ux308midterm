@@ -1,9 +1,11 @@
 ---
 layout: blog
-title: Spanish Music
+title: 'Reggaeton '
 lang: en
 date: '2020-03-12T19:28:18-04:00'
-thumbnail: /images/uploads/netlify-logo.png
-terms: 'Spanish Music, Reggaeton, Mariachi, '
+thumbnail: /images/uploads/maxresdefault.jpg
+terms: >-
+  Spanish Music, Reggaeton, spanish artists, spanishdict, musical instrument,
+  shakira, colombians, music store
 ---
-sss
+Reggaeton
