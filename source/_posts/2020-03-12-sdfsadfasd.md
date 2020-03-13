@@ -1,9 +1,11 @@
 ---
 layout: blog
-title: sdfsadfasd
+title: Biggest Spanish Music Festival
 lang: en
 date: '2020-03-12T19:43:19-04:00'
 thumbnail: /images/uploads/netlify-logo.png
-terms: dsfas
+terms: >-
+  south america, tourist attraction, chilean peso, chile, vina del mar chile,
+  valley, concon, city in chile
 ---
-sdfasf
+## Viña del Mar International Song Festival
